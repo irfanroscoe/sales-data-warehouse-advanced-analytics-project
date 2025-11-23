@@ -74,3 +74,39 @@ erDiagram
 
     FACT_SALES }o--|| DIM_PRODUCTS : "product_key"
     FACT_SALES }o--|| DIM_CUSTOMERS : "customer_key"
+
+## Dataset Description
+
+### Customers
+Demographic attributes:
+- First name
+- Last name
+- Country
+- Gender
+- Marital status
+- Birthdate
+- Creation date
+
+### Products
+Product attributes:
+- Product number
+- Product name
+- Category
+- Subcategory
+- Product line
+- Maintenance flag
+- Cost
+- Start date
+
+### Sales
+Sales transaction fields:
+- Order number
+- Product key
+- Customer key
+- Order date
+- Shipping date
+- Due date
+- Revenue (sales amount)
+- Quantity
+- Price
+
