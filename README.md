@@ -1,4 +1,4 @@
-# Sales Analytics Data Modelling & EDA Project
+# Sales Data Warehouse & Advanced Analytics Project
 
 This project builds a clean, analysis-ready dimensional model for a retail sales environment.  
 Using customer, product, and sales datasets, the project produces a structured **star schema** suitable for BI dashboards, reporting, and downstream analytics.
