@@ -1,13 +1,13 @@
 # sql-exploratory-data-analysis-project
 
-# Sales Analytics Data Model (Dimensional Modeling Project)
+## Sales Analytics Data Model (Dimensional Modeling Project)
 
 This project builds a clean, analysis-ready dimensional model for a retail sales environment.  
 Using customer, product, and sales datasets, the project produces a structured **star schema** suitable for BI dashboards, reporting, and downstream analytics.
 
 ---
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 The goal of this project is to design and prepare a high-quality analytics dataset using principles commonly used in business intelligence and data warehousing:
 
@@ -20,7 +20,7 @@ This dataset can be used as the foundation for Power BI dashboards, SQL analysis
 
 ---
 
-## 🧱 Data Model (Star Schema)
+### 🧱 Data Model (Star Schema)
 
 **Fact Table**
 - `fact_sales`  
